@@ -1,4 +1,4 @@
-Project title: I-Stetho — Wireless Digital Stethoscope
+*I-Stetho — Wireless Digital Stethoscope
 Overview: What the project does and why you are developing it.
 Problem statement: Difficulty recording, storing, retrieving and comparing heart and lung sounds using conventional stethoscopes.
 Current features: ESP32-based audio capture and wireless transmission, describing only what you have tested successfully.
