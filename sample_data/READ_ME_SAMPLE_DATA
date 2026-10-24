@@ -1,2 +1,1 @@
-To listen to the raw file use any audio player prefereably audacity. 
-There can some changes that are to be made set import parameters to Signed 16-bit PCM, Little-endian, 1 Channel (Mono), 8000 Hz and the audio is to be amplified.
+To listen to the raw file go to https://stethoscope-viewer.vercel.app and drop the raw file it automatically filters and amplifies the sounds received by the body 
